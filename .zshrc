@@ -8,8 +8,15 @@ HYPHEN_INSENSITIVE="true"
 plugins=(git nvm)
 
 zstyle ':omz:plugins:nvm' autoload yes # Tell the nvm to autoload verion using .nvmrc
+zstyle ':omz:update' mode reminder  # just remind me to update when it's time
 
 source $ZSH/oh-my-zsh.sh
+
+export EDITOR='nano'
+
+# -------
+# Aliases
+# -------
 
 # Checkout to a new branch
 alias gck='git checkout'
