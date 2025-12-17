@@ -37,7 +37,7 @@ alias gpll='git pull'
 # Push
 alias gpsh='git push'
 # List all
-alias ll='ls -A'
+alias ll='ls -Al'
 # List
 alias l='ls -C'
 # Clear terminal
