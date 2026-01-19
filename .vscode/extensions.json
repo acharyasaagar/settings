@@ -4,6 +4,7 @@
     "formulahendry.auto-rename-tag",
     "humao.rest-client",
     "mikestead.dotenv",
-    "sdras.night-owl"
+    "sdras.night-owl",
+    "pkief.material-icon-theme"
   ]
 }
