@@ -10,5 +10,6 @@
   "terminal.integrated.fontWeight": 300,
   "workbench.iconTheme": "material-icon-theme",
   "prettier.singleQuote": true,
-  "prettier.semi": false
+  "prettier.semi": false,
+  "workbench.colorTheme": "Night Owl"
 }
